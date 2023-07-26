@@ -1,0 +1,4 @@
+/snap/clion/234/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/snap/clion/234/bin/ninja/linux/x64/ninja -DCMAKE_CXX_COMPILER=/home/gurkan/Desktop/codefiles/cprogramming/exercise1 -G Ninja -S /home/gurkan/Desktop/codefiles/cprogramming/CPU_usage_tracker -B /home/gurkan/Desktop/codefiles/cprogramming/CPU_usage_tracker/cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/gurkan/Desktop/codefiles/cprogramming/CPU_usage_tracker/cmake-build-debug

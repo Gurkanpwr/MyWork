@@ -1,0 +1,3 @@
+/home/gurkan/Desktop/codefiles/cprogramming/CPU_usage_tracker/cmake-build-debug/CMakeFiles/CUT.dir
+/home/gurkan/Desktop/codefiles/cprogramming/CPU_usage_tracker/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/gurkan/Desktop/codefiles/cprogramming/CPU_usage_tracker/cmake-build-debug/CMakeFiles/rebuild_cache.dir
